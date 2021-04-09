@@ -1,9 +1,19 @@
-body {
+#body-br {
   padding : 10px ;
   background-image: url("../img/bg-sw1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  height: 100vh;
+}
+
+#body-ca {
+  padding : 10px ;
+  background-image: url("../img/bg-sw2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
 }
 
 a{
